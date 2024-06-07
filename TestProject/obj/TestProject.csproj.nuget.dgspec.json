@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "c:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Nadeem.Mahomed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Nadeem.Mahomed\\OneDrive - Fischer Futureheat Ltd\\Desktop\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadeem.Mahomed\\AppData\\Roaming\\NuGet\\NuGet.Config",

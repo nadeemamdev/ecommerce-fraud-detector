@@ -12,4 +12,3 @@ C:\Users\Nadeem.Mahomed\OneDrive - Fischer Futureheat Ltd\Desktop\CsharpProjects
 C:\Users\Nadeem.Mahomed\OneDrive - Fischer Futureheat Ltd\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\Nadeem.Mahomed\OneDrive - Fischer Futureheat Ltd\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\Nadeem.Mahomed\OneDrive - Fischer Futureheat Ltd\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
-c:\Users\Nadeem.Mahomed\OneDrive - Fischer Futureheat Ltd\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
